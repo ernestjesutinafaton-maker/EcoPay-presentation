@@ -4,7 +4,7 @@
 
 ÉcoPay est un logiciel en ligne (SaaS) de gestion et d'encaissement des frais de scolarité, pensé pour les **écoles privées du Bénin**.
 
-👉 **Accéder au site : [https://ecopay-pi.vercel.app](https://ecopay-pi.vercel.app)**
+ **Accéder au site : [https://ecopay-pi.vercel.app](https://ecopay-pi.vercel.app)**
 
 Essai gratuit de **15 jours**, sans engagement.
 
