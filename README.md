@@ -2,7 +2,7 @@
 
 **Les frais de scolarité de votre école, suivis et encaissés sans cahier ni Excel.**
 
-ÉcoPay est un logiciel en ligne (SaaS) de gestion et d'encaissement des frais de scolarité, pensé pour les **écoles privées du Bénin**.
+ÉcoPay est un logiciel en ligne (SaaS) de gestion et d'encaissement des frais de scolarité, pensé pour les **écoles privées d'Afrique de l'Ouest**.
 
  **Accéder au site : [https://ecopay-services.vercel.app](https://ecopay-services.vercel.app)**
 
@@ -57,6 +57,22 @@ Essai gratuit de **15 jours**, sans engagement.
 - Les paiements en ligne ne sont confirmés qu'après une notification signée de FedaPay.
 - Données hébergées en Europe, avec une politique de confidentialité disponible sur le site.
 
+## Pays
+
+Disponible aujourd'hui dans **7 pays** de la zone franc CFA, avec le Mobile Money de chacun :
+
+| Pays | Mobile Money |
+|---|---|
+| 🇧🇯 Bénin | MTN, Moov, Celtiis |
+| 🇨🇮 Côte d'Ivoire | Orange Money, MTN, Moov, Wave |
+| 🇹🇬 Togo | Mixx by Yas, Flooz |
+| 🇸🇳 Sénégal | Orange Money, Wave, Mixx by Yas |
+| 🇧🇫 Burkina Faso | Orange Money, Moov, Wave |
+| 🇲🇱 Mali | Orange Money, Moov, Wave |
+| 🇳🇪 Niger | Airtel Money, Moov |
+
+Bientôt : Guinée-Bissau, Guinée, Ghana, Nigeria, Cameroun, Gabon.
+
 ## Tarifs
 
 | Taille de l'école | Prix par mois |
@@ -71,6 +87,7 @@ L'abonnement se prend pour 1, 3 ou 10 mois. Sur 10 mois, 2 mois sont offerts.
 
 - **Rappels par SMS** en plus des emails.
 - **WhatsApp automatique** : reçus et rappels envoyés sans action de l'école (aujourd'hui, l'école appuie elle-même sur « Envoyer »).
+- **Nouveaux pays** : Guinée-Bissau, puis les pays à autre monnaie (Guinée, Ghana, Nigeria) et l'Afrique centrale (Cameroun, Gabon).
 - **Groupes d'écoles (« domaines »)** : un tableau de bord consolidé pour un promoteur qui gère plusieurs établissements, le transfert d'élèves entre écoles du groupe et des réductions de fratrie partagées.
 - **Passage à l'année suivante en un clic** : les classes sont recréées et les élèves réinscrits.
 - **Application mobile installable** avec un mode hors-ligne pour la saisie au guichet.
